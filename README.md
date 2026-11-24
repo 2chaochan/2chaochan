@@ -38,25 +38,52 @@ Building Agents · Connecting Robots · Exploring Intelligence
 
 ---
 
+
 <details open>
 <summary><b>👤 关于我 / About Me</b></summary>
 
 <p align="center">
 <b>中文</b><br>
-吉林大学自动化专业本科毕业，北京航空航天大学电子信息专业硕士在读。<br>
-主要研究方向为大模型智能体、多机器人协同与智能任务调度，<br>
-同时关注 VLA 与具身智能，具有 SmolVLA 机械臂抓取实践经验。<br>
-兼顾算法研究与工程实践，持续探索 AI 与机器人技术的融合。
+吉林大学自动化专业本科毕业，北京航空航天大学电子信息专业硕士在读。
+<br><br>
+曾参与异构多机器人协同项目，
+具有软件系统开发、机器人程序开发与实机联调经验，
+涉及无人机与无人车协同控制、任务规划、数字孪生及系统集成。
+<br><br>
+目前主要研究 <strong>LLM Agent</strong>，
+聚焦 Multi-Agent、自主决策、工具调用、自适应任务调度
+以及大模型与传统优化算法的融合。
+<br><br>
+同时关注 <strong>VLA 与具身智能</strong>，
+具有基于 SmolVLA 的机械臂抓取实践经验。
+<br><br>
+兼顾算法研究与工程落地，持续探索人工智能与机器人技术的融合。
 <br><br>
 <b>English</b><br>
-A master's student in Electronic Information at Beihang University,<br>
-with a bachelor's degree in Automation from Jilin University.<br>
-Research interests include LLM Agents, Multi-Robot Cooperation,<br>
-Intelligent Scheduling, and Vision-Language-Action Models.<br>
-Passionate about bridging AI research and engineering practice.
+A master's student in Electronic Information at Beihang University,
+with a bachelor's degree in Automation from Jilin University.
+<br><br>
+Previously participated in a heterogeneous multi-robot cooperation
+project,
+gaining hands-on experience in software system development,
+robot programming, hardware debugging, UAV/UGV coordination,
+digital twins, and system integration.
+<br><br>
+Currently focusing on <strong>LLM Agents</strong>,
+with research interests in multi-agent collaboration,
+autonomous decision-making, tool orchestration,
+adaptive task scheduling, and the integration of LLMs
+with traditional optimization algorithms.
+<br><br>
+Also interested in <strong>VLA and Embodied AI</strong>,
+with hands-on experience in SmolVLA-based robotic grasping.
+<br><br>
+Passionate about bridging AI research
+and real-world engineering applications.
 </p>
 
 </details>
+
 
 ---
 
