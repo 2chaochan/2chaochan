@@ -11,10 +11,6 @@
 
 Building Agents · Connecting Robots · Exploring Intelligence
 
-![Agent](https://img.shields.io/badge/LLM-Agent-2563EB?style=flat-square)
-![VLA](https://img.shields.io/badge/Embodied_AI-VLA-7C3AED?style=flat-square)
-![Robotics](https://img.shields.io/badge/Robotics-Multi--Robot-059669?style=flat-square)
-
 </div>
 
 ---
@@ -101,17 +97,6 @@ engineering applications.
 
 ---
 
-## 🚀 项目经历 / Projects
-
-| Project | Description |
-| --- | --- |
-| ScheAgent | LLM-based adaptive scheduling agent |
-| HSTCG | Semantic parsing and hierarchical task graph construction |
-| SmolVLA | Vision-language-action model for robotic grasping |
-| RailOps-Agent | LLM agent for railway emergency operations |
-| UAV/UGV System | Heterogeneous multi-robot cooperative inspection |
-
----
 
 ## 📝 Publications
 
