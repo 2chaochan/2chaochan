@@ -1,114 +1,65 @@
 
-<div align="center">
+<h1 align="center">ZHAN</h1>
 
-# ZHAN
+<h3 align="center">
+北京航空航天大学 · 电子信息硕士在读<br>
+吉林大学 · 自动化本科<br>
+LLM Agent · VLA · Robotics
+</h3>
 
-**北京航空航天大学 · 电子信息硕士在读**
-
-**吉林大学 · 自动化本科**
-
-**LLM Agent · Embodied AI · Robotics**
-
+<p align="center">
 Building Agents · Connecting Robots · Exploring Intelligence
-
-</div>
-
----
-
-## 🎯 技能清单 / Skill Set
-
-### 编程语言 / Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-### 大模型与智能体 / LLM & AI Agent
-
-Multi-Agent · ReAct · RAG · SFT · LoRA / QLoRA
-
-MCP · Harness · Tool Calling · Context Engineering
-
-### 具身智能 / Embodied AI
-
-VLA · SmolVLA · Robotic Manipulation · Robot Learning
-
-### 机器人与仿真 / Robotics & Simulation
-
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-
-PX4 · Gazebo · SLAM · Digital Twin
-
-### 后端与工程部署 / Backend & DevOps
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-MySQL · Redis · RESTful API
+</p>
 
 ---
 
-## 🎓 教育经历 / Education
+<details>
+<summary><b>🎯 技能清单 / Skill Set</b></summary>
 
-- **北京航空航天大学 / Beihang University**
-  - 电子信息 / Electronic Information
-  - 硕士研究生 / Master's Student
+<p align="center">
+  <strong>编程语言 / Languages</strong><br>
+  Python · C
+  <br><br>
+  <strong>大模型与智能体 / LLM & AI Agent</strong><br>
+  Multi-Agent · ReAct · Harness · MCP · RAG<br>
+  SFT · LoRA / QLoRA · Context Engineering
+  <br><br>
+  <strong>具身智能 / Embodied AI</strong><br>
+  VLA · SmolVLA · Robotic Manipulation
+  <br><br>
+  <strong>机器人与仿真 / Robotics & Simulation</strong><br>
+  ROS · PX4 · Gazebo · Unreal Engine · SLAM
+  <br><br>
+  <strong>后端与工程部署 / Backend & DevOps</strong><br>
+  FastAPI · MySQL · Redis · Docker · Linux · Git
+</p>
 
-- **吉林大学 / Jilin University**
-  - 自动化 / Automation
-  - 本科 / Bachelor's Degree
-
----
-
-## 👤 关于我 / About Me
-
-### 中文
-
-吉林大学自动化专业本科毕业，北京航空航天大学电子信息专业硕士研究生在读。
-
-主要研究方向为大模型智能体、多机器人协同与智能任务调度，同时关注 VLA 视觉语言动作模型与具身智能。
-
-兼顾算法研究与工程实践，探索大模型、机器人与传统优化算法的深度融合，致力于人工智能技术在真实场景中的应用。
-
-### English
-
-A master's student in Electronic Information at Beihang University,
-with a bachelor's degree in Automation from Jilin University.
-
-My research interests include LLM Agents, Multi-Agent Systems,
-Multi-Robot Cooperation, Intelligent Scheduling, and
-Vision-Language-Action Models.
-
-Passionate about bridging AI research and real-world
-engineering applications.
+</details>
 
 ---
 
-## 🔬 研究方向 / Research Interests
+<details open>
+<summary><b>👤 关于我 / About Me</b></summary>
 
-- LLM Agents & Multi-Agent Systems
-- Agent Harness & Context Engineering
-- Vision-Language-Action Models (VLA)
-- Embodied Intelligence & Robotic Manipulation
-- Multi-Robot Task Allocation & Scheduling
-- Adaptive Decision-Making & Optimization
+<p align="center">
+<b>中文</b><br>
+吉林大学自动化专业本科毕业，北京航空航天大学电子信息专业硕士在读。<br>
+主要研究方向为大模型智能体、多机器人协同与智能任务调度，<br>
+同时关注 VLA 与具身智能，具有 SmolVLA 机械臂抓取实践经验。<br>
+兼顾算法研究与工程实践，持续探索 AI 与机器人技术的融合。
+<br><br>
+<b>English</b><br>
+A master's student in Electronic Information at Beihang University,<br>
+with a bachelor's degree in Automation from Jilin University.<br>
+Research interests include LLM Agents, Multi-Robot Cooperation,<br>
+Intelligent Scheduling, and Vision-Language-Action Models.<br>
+Passionate about bridging AI research and engineering practice.
+</p>
+
+</details>
 
 ---
 
-
-## 📝 Publications
-
-- **Resource-Aware Scheduling of Heterogeneous Aviation Maintenance Tasks**
-  - ARCAI 2026 · Accepted
-
----
-
-<div align="center">
-
-### Keep Learning. Keep Building. Keep Running.
-
-Researcher · Developer · Runner
-
-</div>
+<p align="center">
+  <i>Keep Learning. Keep Building. Keep Running.</i>
+</p>
